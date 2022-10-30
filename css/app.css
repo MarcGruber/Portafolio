@@ -114,7 +114,9 @@
    font-weight: 600;
 }
 .seccion .ul .a:hover{
-    border-color: black;
+    background-color: rgb(0, 0, 0);
+    transition: .7s;
+    color: white;
  
 }
 
